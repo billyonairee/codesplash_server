@@ -1,1 +1,1 @@
-# codesplash_server
+# codesplash_prac
